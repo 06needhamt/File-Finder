@@ -1,0 +1,14 @@
+C:\Users\Thomas\AppData\Local\Temporary Projects\Files\bin\Debug\Files.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\Files\bin\Debug\Files.pdb
+C:\Users\Thomas\AppData\Local\Temporary Projects\Files\obj\x86\Debug\Files.exe
+C:\Users\Thomas\AppData\Local\Temporary Projects\Files\obj\x86\Debug\Files.pdb
+C:\Users\Thomas\Documents\Files\Files\obj\x86\Debug\Files.exe
+C:\Users\Thomas\Documents\Files\Files\obj\x86\Debug\Files.pdb
+C:\Users\Thomas\Documents\Files\Files\bin\Debug\Files.exe
+C:\Users\Thomas\Documents\Files\Files\bin\Debug\Files.pdb
+C:\Users\Thomas\Documents\Files\Files\obj\x86\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\File Finder\Files\Files\bin\Debug\Files.exe
+C:\Users\Tom\Documents\File Finder\Files\Files\bin\Debug\Files.pdb
+C:\Users\Tom\Documents\File Finder\Files\Files\obj\x86\Debug\Files.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Documents\File Finder\Files\Files\obj\x86\Debug\Files.exe
+C:\Users\Tom\Documents\File Finder\Files\Files\obj\x86\Debug\Files.pdb
